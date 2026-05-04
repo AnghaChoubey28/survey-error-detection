@@ -1,0 +1,501 @@
+Name,Age,Gender,Income,Occupation,Education,FamilySize,State,HasElectricity,HasInternet
+Rahul,4,Female,61605,Farmer,Secondary,7,Uttar Pradesh,Yes,Yes
+Arjun,32,Female,527606,Teacher,Postgraduate,10,Uttar Pradesh,No,Yes
+Amit,49,Male,218350,Labor,Graduate,9,Rajasthan,Yes,No
+Sita,38,Female,1010587,Teacher,Secondary,3,Bihar,Yes,Yes
+Pooja,-2,Male,1946760,Driver,Primary,6,Madhya Pradesh,No,Yes
+Anita,77,Female,209530,Engineer,Secondary,0,Rajasthan,Yes,No
+Pooja,96,Male,1178978,Business,Primary,0,Rajasthan,No,Yes
+Amit,50,Male,415404,Driver,Graduate,5,Rajasthan,Yes,Yes
+Pooja,56,Male,1193911,Labor,Primary,4,Rajasthan,No,Yes
+Pooja,17,Female,325603,Student,Secondary,9,Maharashtra,Yes,No
+Pooja,71,Female,1513669,Business,Graduate,5,Maharashtra,No,Yes
+Anita,113,Female,1307568,Driver,Postgraduate,1,Rajasthan,No,Yes
+Vikas,69,Male,1854805,Driver,Postgraduate,8,Maharashtra,No,No
+Kiran,64,Female,1076694,Student,Graduate,10,Maharashtra,Yes,Yes
+Anita,-4,Male,443906,Doctor,Secondary,5,Rajasthan,Yes,Yes
+Amit,35,Male,1649891,Unemployed,Secondary,3,Maharashtra,Yes,No
+Anita,115,Female,253394,Driver,Secondary,5,Rajasthan,No,Yes
+Vikas,62,Female,394041,Student,Secondary,1,Uttar Pradesh,Yes,Yes
+Kiran,30,Female,223106,Teacher,Graduate,4,Rajasthan,No,No
+Pooja,17,Female,130172,Engineer,Secondary,7,Madhya Pradesh,No,No
+Anita,8,Male,1998323,Farmer,Graduate,5,Bihar,Yes,No
+Amit,115,Female,1007080,Business,Primary,1,Delhi,No,Yes
+Sita,112,Male,142708,Teacher,Secondary,7,Rajasthan,Yes,Yes
+Sita,42,Female,1092323,Driver,Primary,10,Madhya Pradesh,Yes,No
+Sita,70,Male,249418,Teacher,Primary,7,Maharashtra,Yes,Yes
+Arjun,74,Female,1070085,Driver,Postgraduate,9,Delhi,Yes,No
+Pooja,61,Female,124048,Labor,Graduate,8,Delhi,No,No
+Neha,120,Female,1289266,Labor,Graduate,9,Uttar Pradesh,No,No
+Amit,107,Female,1738565,Driver,Secondary,5,Rajasthan,No,Yes
+Neha,3,Male,754118,Farmer,Primary,7,Bihar,No,No
+Vikas,-3,Female,1054701,Teacher,Primary,3,Maharashtra,No,No
+Vikas,-1,Female,1359650,Business,Postgraduate,7,Bihar,Yes,Yes
+Vikas,24,Female,1783901,Labor,Postgraduate,10,Rajasthan,No,No
+Riya,52,Female,848295,Unemployed,Primary,5,Rajasthan,Yes,No
+Vikas,117,Female,25978,Engineer,Primary,4,Bihar,No,No
+Vikas,10,Female,1144501,Student,Postgraduate,10,Bihar,Yes,Yes
+Kiran,56,Female,1099270,Student,Primary,0,Uttar Pradesh,Yes,Yes
+Arjun,25,Male,1134489,Doctor,Secondary,3,Rajasthan,Yes,Yes
+Anita,47,Male,1091256,Student,Primary,9,Uttar Pradesh,Yes,No
+Vikas,72,Female,1746865,Teacher,Secondary,1,Bihar,No,Yes
+Riya,-5,Female,1703199,Business,Postgraduate,3,Rajasthan,Yes,Yes
+Riya,68,Female,1088042,Labor,Secondary,5,Bihar,No,Yes
+Arjun,108,Female,1421728,Driver,Primary,7,Bihar,Yes,No
+Vikas,11,Male,1745981,Engineer,Postgraduate,9,Rajasthan,No,No
+Pooja,57,Female,445787,Doctor,Secondary,6,Maharashtra,No,No
+Neha,105,Female,826241,Driver,Primary,7,Uttar Pradesh,Yes,No
+Pooja,19,Male,485480,Labor,Graduate,3,Bihar,Yes,No
+Arjun,46,Female,496267,Doctor,Secondary,4,Maharashtra,Yes,Yes
+Kiran,55,Male,1540984,Teacher,Primary,3,Bihar,No,Yes
+Sita,20,Male,1910000,Driver,Postgraduate,8,Delhi,No,Yes
+Anita,7,Male,636567,Farmer,Primary,8,Maharashtra,No,No
+Vikas,69,Female,808423,Engineer,Graduate,6,Madhya Pradesh,Yes,No
+Anita,9,Male,1418839,Doctor,Graduate,3,Uttar Pradesh,Yes,Yes
+Pooja,66,Female,861910,Doctor,Graduate,5,Bihar,Yes,Yes
+Arjun,26,Female,1010417,Business,Primary,8,Bihar,Yes,No
+Pooja,80,Male,367877,Engineer,Secondary,1,Maharashtra,Yes,Yes
+Anita,1,Male,1449849,Business,Graduate,2,Madhya Pradesh,No,No
+Amit,20,Male,1937003,Driver,Primary,10,Madhya Pradesh,Yes,No
+Arjun,48,Male,492515,Engineer,Secondary,7,Bihar,Yes,Yes
+Riya,61,Female,1373981,Business,Primary,6,Delhi,No,Yes
+Neha,53,Female,1053621,Engineer,Graduate,1,Delhi,No,No
+Sita,118,Female,1223997,Driver,Secondary,7,Madhya Pradesh,No,Yes
+Rahul,87,Female,180507,Business,Secondary,7,Madhya Pradesh,Yes,Yes
+Sita,104,Female,590570,Business,Secondary,9,Delhi,No,Yes
+Anita,98,Male,721908,Labor,Postgraduate,7,Delhi,Yes,No
+Pooja,48,Male,148368,Student,Primary,2,Uttar Pradesh,Yes,No
+Pooja,43,Female,1667954,Farmer,Postgraduate,9,Uttar Pradesh,Yes,Yes
+Sita,0,Male,1376299,Farmer,Graduate,10,Delhi,Yes,Yes
+Riya,-5,Male,1372689,Student,Secondary,9,Bihar,Yes,No
+Vikas,68,Female,649019,Farmer,Graduate,4,Madhya Pradesh,Yes,Yes
+Kiran,10,Female,1598862,Unemployed,Postgraduate,0,Maharashtra,Yes,No
+Vikas,78,Male,112141,Doctor,Secondary,4,Maharashtra,No,Yes
+Anita,48,Male,1403292,Student,Graduate,1,Maharashtra,Yes,Yes
+Pooja,108,Female,1125104,Unemployed,Graduate,1,Uttar Pradesh,No,Yes
+Amit,116,Male,249523,Doctor,Graduate,10,Rajasthan,No,Yes
+Sita,10,Male,306044,Labor,Secondary,3,Maharashtra,No,No
+Neha,61,Female,1698029,Labor,Secondary,6,Madhya Pradesh,Yes,Yes
+Vikas,10,Female,161278,Engineer,Secondary,4,Rajasthan,No,Yes
+Kiran,103,Female,533315,Teacher,Postgraduate,6,Bihar,Yes,Yes
+Neha,36,Male,272352,Farmer,Postgraduate,5,Delhi,Yes,Yes
+Amit,29,Male,44129,Labor,Postgraduate,1,Delhi,No,No
+Neha,106,Female,228084,Farmer,Primary,2,Bihar,No,Yes
+Vikas,30,Female,1135062,Business,Graduate,10,Maharashtra,No,No
+Kiran,115,Female,926270,Driver,Secondary,10,Maharashtra,No,Yes
+Arjun,53,Female,1583779,Driver,Primary,2,Delhi,No,Yes
+Riya,14,Male,1163924,Unemployed,Secondary,6,Delhi,No,No
+Neha,111,Female,1592258,Labor,Secondary,3,Delhi,No,No
+Sita,15,Male,1514341,Unemployed,Postgraduate,3,Maharashtra,Yes,No
+Vikas,93,Male,780757,Driver,Secondary,9,Uttar Pradesh,Yes,No
+Neha,109,Female,1213732,Student,Secondary,5,Madhya Pradesh,No,Yes
+Amit,86,Female,1018937,Student,Postgraduate,6,Rajasthan,No,No
+Anita,118,Female,1951263,Doctor,Graduate,5,Rajasthan,Yes,No
+Kiran,21,Male,1857840,Unemployed,Primary,10,Uttar Pradesh,No,Yes
+Amit,0,Male,1936104,Business,Secondary,5,Maharashtra,Yes,Yes
+Neha,64,Male,1097107,Teacher,Secondary,4,Maharashtra,No,Yes
+Sita,85,Male,357758,Driver,Primary,6,Uttar Pradesh,No,Yes
+Vikas,20,Male,1990945,Farmer,Graduate,3,Maharashtra,No,No
+Vikas,76,Female,1857561,Engineer,Primary,7,Uttar Pradesh,No,No
+Vikas,14,Female,1760215,Engineer,Postgraduate,1,Uttar Pradesh,No,Yes
+Amit,5,Female,298123,Farmer,Primary,9,Bihar,Yes,Yes
+Rahul,10,Female,1072079,Doctor,Secondary,6,Bihar,No,Yes
+Kiran,52,Male,487596,Student,Postgraduate,7,Maharashtra,Yes,Yes
+Neha,19,Male,1811207,Doctor,Primary,4,Madhya Pradesh,Yes,Yes
+Sita,50,Female,1343415,Engineer,Secondary,2,Rajasthan,No,Yes
+Rahul,90,Male,1260920,Engineer,Postgraduate,10,Bihar,Yes,No
+Riya,60,Male,1311022,Student,Postgraduate,4,Bihar,Yes,No
+Vikas,52,Male,1644570,Farmer,Postgraduate,0,Uttar Pradesh,Yes,Yes
+Arjun,12,Female,1604373,Business,Primary,10,Uttar Pradesh,Yes,Yes
+Amit,112,Female,10928,Teacher,Graduate,6,Delhi,Yes,No
+Rahul,23,Female,1353706,Engineer,Primary,1,Delhi,Yes,Yes
+Pooja,-4,Male,459529,Teacher,Graduate,9,Rajasthan,No,Yes
+Arjun,100,Male,741964,Unemployed,Postgraduate,10,Maharashtra,Yes,No
+Kiran,99,Male,1379599,Engineer,Primary,10,Delhi,No,No
+Neha,27,Male,396402,Business,Secondary,1,Maharashtra,Yes,No
+Vikas,87,Female,1230547,Farmer,Graduate,7,Uttar Pradesh,No,Yes
+Riya,63,Female,396549,Student,Primary,5,Delhi,Yes,Yes
+Anita,111,Male,1597237,Business,Postgraduate,9,Uttar Pradesh,No,No
+Kiran,67,Male,1946769,Student,Graduate,1,Madhya Pradesh,Yes,Yes
+Sita,20,Female,427508,Driver,Secondary,10,Rajasthan,Yes,No
+Amit,39,Female,1376192,Driver,Graduate,1,Bihar,Yes,Yes
+Pooja,102,Female,913814,Unemployed,Graduate,10,Uttar Pradesh,Yes,No
+Arjun,62,Male,907097,Driver,Primary,10,Delhi,No,No
+Neha,47,Female,3916,Business,Primary,0,Rajasthan,Yes,No
+Riya,53,Male,1773162,Labor,Graduate,0,Maharashtra,No,No
+Anita,28,Female,891859,Teacher,Primary,0,Delhi,No,Yes
+Sita,12,Female,79396,Labor,Postgraduate,4,Rajasthan,Yes,No
+Anita,34,Male,369877,Doctor,Primary,6,Rajasthan,Yes,No
+Amit,-2,Female,481586,Teacher,Secondary,8,Uttar Pradesh,No,Yes
+Amit,19,Male,1603052,Student,Postgraduate,8,Rajasthan,No,No
+Pooja,20,Female,258242,Unemployed,Graduate,1,Delhi,No,Yes
+Riya,106,Male,687686,Farmer,Graduate,7,Rajasthan,Yes,No
+Pooja,112,Male,347607,Farmer,Secondary,0,Rajasthan,No,Yes
+Pooja,75,Male,1743481,Business,Graduate,6,Uttar Pradesh,No,No
+Arjun,0,Male,1910346,Unemployed,Graduate,9,Madhya Pradesh,No,No
+Arjun,-3,Female,1909546,Teacher,Secondary,9,Rajasthan,Yes,Yes
+Neha,79,Female,265667,Labor,Postgraduate,2,Rajasthan,No,No
+Riya,60,Male,485917,Unemployed,Primary,5,Rajasthan,Yes,Yes
+Anita,45,Female,251171,Student,Primary,0,Madhya Pradesh,Yes,No
+Sita,14,Male,222531,Unemployed,Postgraduate,8,Bihar,No,No
+Anita,24,Female,627742,Labor,Primary,0,Rajasthan,No,Yes
+Kiran,108,Male,1813355,Doctor,Postgraduate,0,Uttar Pradesh,No,No
+Arjun,76,Female,868104,Driver,Secondary,10,Uttar Pradesh,Yes,Yes
+Riya,9,Female,1265067,Unemployed,Primary,0,Uttar Pradesh,No,Yes
+Anita,119,Female,139352,Business,Secondary,6,Delhi,No,No
+Arjun,68,Male,1394709,Engineer,Postgraduate,1,Madhya Pradesh,No,Yes
+Arjun,10,Female,1305218,Driver,Postgraduate,8,Rajasthan,No,Yes
+Anita,92,Female,1005192,Driver,Secondary,4,Bihar,No,Yes
+Kiran,45,Female,1748392,Student,Primary,4,Uttar Pradesh,Yes,No
+Anita,100,Female,1680255,Driver,Postgraduate,8,Madhya Pradesh,No,Yes
+Rahul,64,Male,1025308,Labor,Graduate,6,Maharashtra,Yes,Yes
+Rahul,33,Male,802890,Business,Postgraduate,8,Rajasthan,No,No
+Anita,12,Male,1122289,Labor,Secondary,3,Bihar,Yes,Yes
+Arjun,42,Male,1073610,Unemployed,Graduate,6,Bihar,No,No
+Vikas,102,Female,1891895,Driver,Postgraduate,1,Madhya Pradesh,No,No
+Kiran,7,Female,1807618,Student,Postgraduate,1,Rajasthan,No,No
+Riya,32,Female,1151906,Labor,Primary,10,Bihar,Yes,No
+Sita,73,Female,1924254,Teacher,Graduate,1,Rajasthan,No,No
+Arjun,21,Female,1860130,Business,Graduate,9,Rajasthan,No,Yes
+Kiran,55,Female,1435184,Teacher,Graduate,1,Delhi,Yes,Yes
+Arjun,87,Female,477703,Business,Secondary,4,Rajasthan,Yes,Yes
+Amit,55,Female,1761323,Farmer,Secondary,0,Maharashtra,No,No
+Rahul,9,Male,1547968,Farmer,Secondary,3,Rajasthan,No,Yes
+Amit,-4,Female,811517,Driver,Graduate,8,Uttar Pradesh,No,Yes
+Riya,113,Female,96546,Labor,Postgraduate,0,Delhi,Yes,Yes
+Rahul,90,Male,1633190,Driver,Postgraduate,10,Bihar,Yes,No
+Amit,27,Male,162450,Driver,Postgraduate,6,Madhya Pradesh,No,Yes
+Sita,24,Male,751936,Farmer,Secondary,9,Delhi,Yes,Yes
+Kiran,34,Female,1039160,Labor,Graduate,6,Uttar Pradesh,No,No
+Rahul,79,Female,1020350,Engineer,Graduate,0,Uttar Pradesh,Yes,No
+Kiran,84,Female,90235,Engineer,Graduate,9,Madhya Pradesh,Yes,No
+Sita,82,Female,196033,Farmer,Primary,1,Madhya Pradesh,Yes,No
+Arjun,95,Male,1205989,Driver,Graduate,10,Bihar,Yes,Yes
+Pooja,96,Male,1508021,Farmer,Secondary,7,Bihar,No,Yes
+Vikas,37,Female,1113750,Business,Secondary,4,Maharashtra,Yes,No
+Rahul,71,Male,164348,Farmer,Secondary,0,Delhi,Yes,No
+Rahul,-1,Female,1385588,Unemployed,Primary,8,Delhi,Yes,No
+Riya,7,Male,1788569,Driver,Primary,8,Maharashtra,No,Yes
+Neha,72,Female,1330077,Business,Graduate,8,Uttar Pradesh,No,No
+Amit,9,Male,1189421,Business,Graduate,7,Uttar Pradesh,No,No
+Neha,62,Male,1693008,Unemployed,Secondary,10,Bihar,No,Yes
+Vikas,57,Male,1454357,Driver,Secondary,1,Bihar,Yes,Yes
+Anita,40,Female,281893,Unemployed,Postgraduate,1,Maharashtra,No,Yes
+Vikas,69,Female,1731318,Doctor,Graduate,8,Delhi,No,Yes
+Amit,96,Female,784965,Farmer,Postgraduate,5,Madhya Pradesh,No,No
+Kiran,68,Female,104868,Business,Postgraduate,0,Rajasthan,No,Yes
+Amit,-4,Male,530753,Student,Postgraduate,6,Rajasthan,Yes,Yes
+Kiran,20,Male,141012,Unemployed,Primary,9,Maharashtra,No,No
+Neha,49,Female,1356045,Unemployed,Primary,8,Rajasthan,No,No
+Arjun,95,Male,53924,Farmer,Postgraduate,6,Rajasthan,No,No
+Vikas,29,Male,176285,Labor,Secondary,3,Uttar Pradesh,Yes,Yes
+Kiran,74,Male,1621434,Labor,Graduate,4,Maharashtra,No,Yes
+Sita,95,Female,351248,Unemployed,Postgraduate,5,Maharashtra,No,Yes
+Sita,30,Male,1345308,Business,Primary,6,Madhya Pradesh,Yes,Yes
+Kiran,66,Female,697181,Unemployed,Primary,1,Madhya Pradesh,Yes,Yes
+Arjun,-2,Male,1485273,Student,Secondary,4,Madhya Pradesh,Yes,Yes
+Amit,87,Male,399486,Labor,Postgraduate,9,Uttar Pradesh,No,No
+Amit,89,Male,644491,Engineer,Postgraduate,8,Rajasthan,Yes,No
+Amit,24,Female,1681017,Doctor,Graduate,5,Delhi,Yes,No
+Pooja,83,Male,1855165,Labor,Postgraduate,9,Madhya Pradesh,No,No
+Kiran,42,Female,1406467,Unemployed,Postgraduate,7,Madhya Pradesh,No,Yes
+Anita,22,Female,343588,Unemployed,Primary,1,Uttar Pradesh,No,Yes
+Anita,73,Male,728883,Teacher,Primary,6,Uttar Pradesh,Yes,No
+Riya,80,Male,1440494,Doctor,Secondary,2,Madhya Pradesh,Yes,Yes
+Pooja,63,Female,145473,Driver,Secondary,5,Madhya Pradesh,Yes,Yes
+Amit,86,Female,1413847,Student,Graduate,3,Uttar Pradesh,No,No
+Kiran,-3,Male,1924477,Engineer,Graduate,0,Rajasthan,Yes,No
+Kiran,109,Male,616300,Labor,Primary,1,Rajasthan,Yes,No
+Arjun,72,Female,1343785,Driver,Secondary,8,Bihar,Yes,No
+Sita,4,Male,753907,Labor,Postgraduate,8,Bihar,Yes,Yes
+Vikas,62,Male,1275764,Driver,Primary,9,Uttar Pradesh,No,No
+Kiran,28,Male,1093673,Unemployed,Primary,7,Madhya Pradesh,Yes,No
+Anita,68,Male,1072070,Doctor,Postgraduate,6,Rajasthan,No,Yes
+Neha,80,Male,1414974,Driver,Secondary,8,Uttar Pradesh,Yes,Yes
+Riya,0,Male,1347134,Engineer,Postgraduate,0,Rajasthan,No,Yes
+Kiran,42,Male,436496,Engineer,Secondary,6,Uttar Pradesh,No,No
+Anita,118,Female,576343,Labor,Postgraduate,2,Uttar Pradesh,Yes,Yes
+Riya,97,Female,1712819,Farmer,Graduate,5,Delhi,No,No
+Amit,17,Female,1169036,Unemployed,Secondary,3,Maharashtra,No,Yes
+Rahul,-2,Female,781830,Driver,Secondary,0,Rajasthan,No,Yes
+Pooja,110,Male,197495,Engineer,Postgraduate,8,Uttar Pradesh,Yes,No
+Kiran,15,Female,1108683,Labor,Postgraduate,3,Delhi,Yes,Yes
+Rahul,44,Male,457672,Farmer,Graduate,8,Delhi,Yes,No
+Rahul,-5,Female,670344,Engineer,Postgraduate,8,Delhi,Yes,No
+Sita,59,Male,279517,Driver,Graduate,6,Uttar Pradesh,No,No
+Amit,90,Male,1958905,Teacher,Graduate,2,Bihar,No,No
+Riya,31,Female,1339382,Engineer,Postgraduate,9,Delhi,Yes,Yes
+Arjun,45,Male,321447,Teacher,Secondary,6,Rajasthan,Yes,No
+Amit,23,Male,1360131,Doctor,Graduate,2,Rajasthan,No,Yes
+Pooja,0,Male,932538,Teacher,Secondary,4,Uttar Pradesh,Yes,No
+Kiran,66,Male,393123,Unemployed,Postgraduate,10,Maharashtra,No,No
+Riya,104,Female,1550328,Labor,Primary,4,Maharashtra,No,Yes
+Amit,24,Male,1441553,Business,Postgraduate,0,Delhi,No,No
+Rahul,25,Male,994301,Business,Secondary,5,Delhi,No,Yes
+Vikas,-2,Male,1066248,Student,Postgraduate,4,Rajasthan,No,No
+Rahul,38,Female,1217302,Driver,Primary,9,Delhi,No,No
+Vikas,23,Male,393054,Business,Graduate,1,Madhya Pradesh,No,No
+Pooja,26,Female,610594,Unemployed,Postgraduate,3,Madhya Pradesh,No,No
+Amit,4,Male,2876,Labor,Primary,0,Maharashtra,Yes,No
+Vikas,-5,Male,1532805,Student,Primary,6,Bihar,Yes,Yes
+Rahul,98,Female,972274,Unemployed,Postgraduate,7,Bihar,Yes,Yes
+Amit,96,Female,1564444,Doctor,Secondary,3,Uttar Pradesh,No,Yes
+Kiran,36,Male,1708693,Driver,Postgraduate,8,Rajasthan,No,No
+Amit,61,Male,836577,Engineer,Graduate,5,Rajasthan,Yes,Yes
+Amit,82,Female,201835,Farmer,Graduate,5,Bihar,Yes,No
+Sita,41,Female,1661549,Business,Postgraduate,5,Bihar,No,Yes
+Sita,29,Male,1806638,Teacher,Postgraduate,5,Madhya Pradesh,No,Yes
+Kiran,114,Male,782826,Business,Postgraduate,5,Uttar Pradesh,No,No
+Anita,10,Female,1524841,Driver,Postgraduate,0,Rajasthan,Yes,Yes
+Pooja,44,Male,1365741,Labor,Primary,6,Madhya Pradesh,No,Yes
+Neha,75,Male,187428,Engineer,Secondary,6,Uttar Pradesh,Yes,No
+Rahul,80,Male,1519728,Labor,Graduate,1,Maharashtra,Yes,No
+Vikas,39,Male,1919521,Labor,Graduate,2,Bihar,No,No
+Arjun,84,Female,516046,Teacher,Primary,10,Bihar,No,Yes
+Pooja,97,Male,673668,Labor,Secondary,2,Madhya Pradesh,Yes,Yes
+Kiran,53,Male,1757830,Doctor,Postgraduate,9,Maharashtra,No,No
+Neha,91,Female,1866222,Engineer,Postgraduate,2,Madhya Pradesh,No,Yes
+Vikas,107,Female,839045,Doctor,Postgraduate,10,Maharashtra,Yes,Yes
+Sita,90,Male,866302,Unemployed,Postgraduate,1,Rajasthan,Yes,No
+Kiran,88,Male,423306,Engineer,Postgraduate,8,Madhya Pradesh,No,Yes
+Amit,76,Male,1817846,Engineer,Secondary,3,Bihar,Yes,Yes
+Riya,4,Male,1212191,Engineer,Secondary,3,Uttar Pradesh,No,No
+Vikas,84,Male,1505626,Driver,Postgraduate,0,Bihar,Yes,Yes
+Riya,29,Female,707472,Doctor,Primary,10,Uttar Pradesh,No,Yes
+Kiran,18,Male,933254,Labor,Postgraduate,7,Madhya Pradesh,Yes,Yes
+Anita,-4,Female,222780,Doctor,Primary,0,Madhya Pradesh,Yes,No
+Amit,106,Female,1641034,Doctor,Primary,3,Maharashtra,Yes,No
+Rahul,66,Female,1125957,Engineer,Primary,4,Bihar,No,Yes
+Sita,34,Female,981649,Teacher,Secondary,2,Maharashtra,Yes,Yes
+Kiran,107,Female,1716269,Driver,Postgraduate,4,Madhya Pradesh,No,Yes
+Riya,4,Male,513413,Business,Graduate,9,Rajasthan,Yes,Yes
+Pooja,114,Female,1878143,Student,Secondary,6,Delhi,No,Yes
+Pooja,107,Male,1871166,Doctor,Graduate,9,Rajasthan,Yes,No
+Vikas,17,Female,1424910,Doctor,Primary,8,Delhi,No,No
+Arjun,49,Female,1917310,Business,Graduate,5,Madhya Pradesh,No,No
+Pooja,87,Male,126911,Engineer,Secondary,1,Bihar,Yes,Yes
+Amit,8,Female,606937,Student,Postgraduate,1,Maharashtra,No,No
+Kiran,68,Male,1144592,Teacher,Secondary,3,Bihar,Yes,Yes
+Sita,18,Female,19584,Engineer,Secondary,3,Maharashtra,Yes,Yes
+Pooja,11,Male,145273,Student,Primary,8,Madhya Pradesh,No,No
+Amit,54,Male,461686,Unemployed,Graduate,2,Uttar Pradesh,No,Yes
+Arjun,102,Female,1603357,Teacher,Postgraduate,2,Delhi,No,No
+Kiran,59,Female,1281517,Doctor,Graduate,7,Maharashtra,No,No
+Anita,16,Female,11319,Doctor,Primary,1,Maharashtra,No,Yes
+Rahul,52,Male,779393,Doctor,Postgraduate,7,Madhya Pradesh,No,Yes
+Neha,36,Male,1956395,Business,Primary,5,Delhi,No,No
+Amit,64,Male,1789684,Farmer,Secondary,3,Maharashtra,Yes,Yes
+Arjun,-4,Female,846332,Student,Primary,7,Madhya Pradesh,No,No
+Arjun,105,Female,274390,Unemployed,Secondary,4,Uttar Pradesh,Yes,Yes
+Amit,14,Female,1620932,Labor,Graduate,2,Rajasthan,Yes,Yes
+Kiran,63,Male,178056,Student,Secondary,3,Bihar,Yes,Yes
+Vikas,12,Male,901206,Driver,Graduate,4,Rajasthan,Yes,No
+Sita,69,Female,1653087,Student,Secondary,9,Bihar,No,No
+Sita,103,Female,367523,Business,Primary,6,Delhi,No,Yes
+Arjun,94,Female,845468,Doctor,Postgraduate,5,Madhya Pradesh,Yes,No
+Neha,51,Female,601784,Engineer,Postgraduate,1,Delhi,No,No
+Arjun,35,Female,1696195,Unemployed,Secondary,1,Rajasthan,No,Yes
+Vikas,36,Male,835174,Driver,Graduate,5,Rajasthan,Yes,No
+Vikas,18,Female,1128564,Business,Postgraduate,2,Maharashtra,No,No
+Pooja,117,Female,798043,Doctor,Postgraduate,9,Maharashtra,Yes,Yes
+Vikas,70,Female,1157954,Unemployed,Secondary,2,Maharashtra,Yes,No
+Sita,63,Male,630862,Farmer,Primary,5,Uttar Pradesh,No,No
+Arjun,53,Male,1378940,Teacher,Postgraduate,2,Delhi,No,No
+Neha,40,Female,1282906,Farmer,Graduate,0,Rajasthan,No,Yes
+Riya,26,Female,1263510,Farmer,Secondary,1,Madhya Pradesh,No,No
+Amit,87,Male,1382949,Doctor,Graduate,10,Maharashtra,Yes,No
+Rahul,50,Female,1756471,Doctor,Primary,8,Madhya Pradesh,Yes,No
+Vikas,57,Male,342055,Student,Postgraduate,0,Madhya Pradesh,No,Yes
+Riya,119,Female,538549,Student,Postgraduate,5,Bihar,Yes,No
+Neha,105,Female,1642623,Student,Graduate,10,Maharashtra,No,No
+Sita,4,Female,822934,Engineer,Graduate,1,Madhya Pradesh,No,No
+Neha,2,Female,1521726,Unemployed,Graduate,10,Rajasthan,No,Yes
+Riya,5,Male,236348,Teacher,Postgraduate,5,Delhi,No,Yes
+Kiran,21,Female,1622621,Doctor,Graduate,10,Uttar Pradesh,No,No
+Pooja,-3,Female,993880,Unemployed,Graduate,5,Uttar Pradesh,No,Yes
+Pooja,57,Male,1057491,Student,Primary,1,Bihar,No,Yes
+Neha,29,Female,885114,Unemployed,Secondary,6,Madhya Pradesh,Yes,No
+Arjun,120,Male,675656,Business,Primary,8,Madhya Pradesh,Yes,No
+Anita,42,Female,1708577,Engineer,Secondary,5,Maharashtra,No,Yes
+Rahul,-1,Male,1843452,Labor,Primary,3,Uttar Pradesh,No,Yes
+Kiran,57,Male,1098426,Business,Graduate,0,Madhya Pradesh,No,Yes
+Rahul,15,Female,103655,Unemployed,Graduate,8,Maharashtra,No,No
+Amit,111,Female,1379975,Engineer,Graduate,1,Madhya Pradesh,Yes,No
+Arjun,45,Female,101991,Student,Graduate,8,Uttar Pradesh,No,No
+Anita,95,Male,1509891,Business,Primary,8,Uttar Pradesh,Yes,No
+Arjun,12,Female,1457758,Driver,Primary,4,Maharashtra,No,Yes
+Arjun,98,Male,489273,Farmer,Graduate,5,Delhi,Yes,Yes
+Kiran,76,Male,208807,Driver,Postgraduate,10,Maharashtra,No,No
+Rahul,58,Male,218923,Unemployed,Secondary,5,Uttar Pradesh,No,Yes
+Arjun,115,Male,80872,Engineer,Secondary,8,Delhi,No,No
+Neha,19,Female,438111,Labor,Postgraduate,8,Maharashtra,Yes,No
+Pooja,-1,Female,301496,Driver,Postgraduate,9,Rajasthan,Yes,No
+Riya,29,Male,1266474,Student,Postgraduate,3,Uttar Pradesh,Yes,Yes
+Sita,88,Male,106217,Driver,Graduate,5,Bihar,No,No
+Vikas,68,Male,1228169,Unemployed,Postgraduate,8,Bihar,No,No
+Pooja,30,Female,929925,Farmer,Graduate,1,Bihar,No,Yes
+Vikas,116,Male,1865855,Labor,Graduate,7,Rajasthan,No,No
+Riya,40,Male,282603,Teacher,Postgraduate,9,Maharashtra,No,No
+Pooja,24,Female,387857,Driver,Graduate,7,Delhi,Yes,Yes
+Vikas,73,Male,1926477,Unemployed,Secondary,5,Madhya Pradesh,Yes,No
+Kiran,70,Female,1405116,Engineer,Graduate,0,Maharashtra,Yes,Yes
+Pooja,15,Female,1529841,Driver,Secondary,6,Rajasthan,Yes,Yes
+Amit,-5,Male,810660,Unemployed,Graduate,7,Madhya Pradesh,No,No
+Neha,67,Male,837098,Teacher,Postgraduate,9,Uttar Pradesh,Yes,No
+Sita,86,Male,18953,Driver,Secondary,2,Rajasthan,Yes,No
+Riya,109,Male,119606,Farmer,Graduate,3,Maharashtra,Yes,No
+Sita,-4,Male,883256,Farmer,Graduate,10,Rajasthan,Yes,Yes
+Rahul,112,Male,408095,Labor,Postgraduate,7,Madhya Pradesh,Yes,Yes
+Pooja,37,Female,610568,Student,Secondary,4,Maharashtra,No,Yes
+Neha,71,Male,1004418,Business,Primary,9,Rajasthan,No,No
+Riya,97,Male,1278169,Student,Primary,3,Bihar,Yes,Yes
+Kiran,109,Female,693214,Engineer,Secondary,3,Bihar,No,Yes
+Rahul,61,Male,672667,Unemployed,Primary,7,Maharashtra,No,No
+Riya,100,Female,215346,Labor,Postgraduate,2,Delhi,Yes,Yes
+Amit,10,Male,1138298,Labor,Graduate,9,Rajasthan,No,Yes
+Anita,102,Female,1147435,Labor,Primary,9,Madhya Pradesh,No,Yes
+Vikas,49,Male,1042394,Unemployed,Graduate,1,Bihar,Yes,Yes
+Arjun,27,Female,1175667,Driver,Postgraduate,5,Maharashtra,No,Yes
+Neha,96,Female,851027,Driver,Secondary,2,Bihar,Yes,No
+Arjun,57,Male,1330155,Business,Postgraduate,3,Uttar Pradesh,No,Yes
+Sita,83,Male,168812,Unemployed,Primary,4,Madhya Pradesh,Yes,No
+Rahul,38,Female,1973052,Business,Graduate,4,Delhi,Yes,No
+Kiran,13,Female,1782246,Student,Graduate,1,Bihar,Yes,Yes
+Kiran,50,Male,1714805,Business,Graduate,1,Uttar Pradesh,No,No
+Rahul,81,Male,787629,Teacher,Postgraduate,2,Bihar,Yes,Yes
+Anita,67,Female,795713,Business,Postgraduate,7,Rajasthan,Yes,Yes
+Sita,52,Female,1073466,Business,Secondary,3,Delhi,No,Yes
+Arjun,25,Male,1942526,Business,Secondary,7,Bihar,Yes,Yes
+Arjun,19,Male,657666,Farmer,Secondary,2,Maharashtra,Yes,Yes
+Riya,95,Male,1202370,Farmer,Secondary,10,Bihar,Yes,Yes
+Riya,15,Male,1359486,Farmer,Graduate,8,Bihar,No,No
+Rahul,92,Male,1682921,Driver,Secondary,2,Bihar,Yes,No
+Rahul,13,Male,1760218,Teacher,Secondary,5,Maharashtra,No,Yes
+Rahul,19,Male,1730707,Doctor,Graduate,6,Bihar,Yes,Yes
+Kiran,43,Male,1676367,Doctor,Graduate,10,Delhi,No,Yes
+Sita,106,Female,1430250,Farmer,Postgraduate,7,Madhya Pradesh,No,Yes
+Rahul,1,Female,1123919,Driver,Postgraduate,4,Maharashtra,Yes,No
+Arjun,90,Male,1018795,Teacher,Graduate,3,Uttar Pradesh,Yes,Yes
+Neha,92,Female,1876507,Teacher,Primary,0,Rajasthan,Yes,No
+Riya,100,Male,876592,Farmer,Postgraduate,9,Rajasthan,Yes,No
+Kiran,20,Male,565822,Student,Graduate,10,Maharashtra,Yes,Yes
+Vikas,33,Female,1794696,Doctor,Postgraduate,10,Rajasthan,No,No
+Amit,27,Male,1878059,Unemployed,Postgraduate,1,Maharashtra,No,No
+Arjun,105,Male,120449,Labor,Postgraduate,9,Bihar,No,Yes
+Vikas,105,Female,1883432,Engineer,Postgraduate,9,Uttar Pradesh,No,No
+Amit,99,Male,672415,Labor,Secondary,6,Maharashtra,Yes,No
+Riya,43,Female,310616,Labor,Postgraduate,9,Rajasthan,No,No
+Riya,48,Female,1223686,Teacher,Primary,3,Delhi,No,No
+Kiran,78,Female,922459,Unemployed,Primary,7,Madhya Pradesh,No,Yes
+Anita,18,Male,1057276,Doctor,Graduate,4,Rajasthan,Yes,No
+Vikas,63,Female,1644749,Doctor,Secondary,2,Bihar,No,Yes
+Sita,5,Female,469605,Teacher,Secondary,2,Maharashtra,No,Yes
+Pooja,109,Female,83049,Labor,Postgraduate,5,Delhi,No,Yes
+Amit,80,Male,1443994,Driver,Graduate,4,Delhi,No,Yes
+Amit,32,Female,1186395,Farmer,Postgraduate,2,Uttar Pradesh,Yes,No
+Anita,5,Male,43424,Business,Primary,10,Maharashtra,Yes,Yes
+Pooja,120,Female,1681908,Farmer,Graduate,3,Uttar Pradesh,Yes,No
+Vikas,5,Male,225972,Driver,Graduate,8,Delhi,No,Yes
+Sita,119,Male,1547510,Labor,Postgraduate,5,Uttar Pradesh,Yes,No
+Arjun,64,Male,1320652,Farmer,Primary,9,Madhya Pradesh,No,No
+Neha,72,Male,464686,Labor,Postgraduate,1,Madhya Pradesh,Yes,Yes
+Kiran,34,Male,1176800,Labor,Secondary,10,Maharashtra,No,No
+Arjun,25,Female,367174,Teacher,Primary,2,Rajasthan,No,Yes
+Amit,113,Female,26972,Student,Secondary,4,Uttar Pradesh,No,Yes
+Neha,71,Female,1011853,Doctor,Secondary,8,Maharashtra,No,No
+Pooja,111,Female,1198161,Student,Primary,9,Bihar,Yes,Yes
+Pooja,119,Female,1869073,Unemployed,Primary,1,Delhi,Yes,Yes
+Arjun,111,Female,620684,Labor,Postgraduate,5,Delhi,No,No
+Kiran,45,Male,1584718,Teacher,Graduate,7,Bihar,No,Yes
+Neha,115,Male,751999,Student,Graduate,5,Uttar Pradesh,Yes,No
+Neha,24,Male,672996,Doctor,Postgraduate,4,Maharashtra,Yes,No
+Pooja,19,Female,1640288,Student,Postgraduate,4,Uttar Pradesh,Yes,Yes
+Vikas,61,Male,1849038,Engineer,Secondary,1,Madhya Pradesh,No,No
+Riya,41,Female,621976,Business,Secondary,1,Uttar Pradesh,No,No
+Rahul,81,Female,1050824,Labor,Secondary,10,Maharashtra,No,No
+Arjun,106,Female,1467821,Teacher,Secondary,8,Uttar Pradesh,No,No
+Sita,35,Female,73783,Farmer,Graduate,9,Bihar,Yes,No
+Rahul,96,Female,797072,Farmer,Primary,0,Rajasthan,No,Yes
+Vikas,9,Female,672363,Teacher,Graduate,0,Delhi,No,Yes
+Arjun,34,Male,1922704,Engineer,Postgraduate,7,Uttar Pradesh,Yes,No
+Anita,103,Male,1858400,Student,Secondary,10,Uttar Pradesh,No,Yes
+Amit,50,Female,1083332,Doctor,Graduate,0,Uttar Pradesh,Yes,Yes
+Neha,49,Female,725178,Teacher,Secondary,6,Madhya Pradesh,Yes,Yes
+Riya,17,Male,192360,Labor,Secondary,3,Maharashtra,No,Yes
+Sita,116,Female,1535808,Engineer,Secondary,8,Madhya Pradesh,No,No
+Neha,78,Female,494630,Student,Secondary,6,Bihar,No,Yes
+Vikas,2,Female,243571,Teacher,Secondary,6,Bihar,No,Yes
+Arjun,110,Male,1603464,Student,Postgraduate,2,Delhi,No,No
+Anita,-4,Male,1051309,Unemployed,Primary,1,Maharashtra,Yes,No
+Arjun,115,Male,986124,Doctor,Secondary,9,Rajasthan,Yes,No
+Rahul,88,Male,884566,Farmer,Postgraduate,7,Bihar,Yes,No
+Amit,40,Female,532048,Farmer,Postgraduate,10,Madhya Pradesh,Yes,Yes
+Kiran,17,Male,1218111,Unemployed,Postgraduate,5,Bihar,No,No
+Kiran,0,Male,412119,Teacher,Primary,4,Delhi,Yes,Yes
+Sita,107,Female,541472,Doctor,Secondary,0,Uttar Pradesh,No,No
+Sita,2,Female,1130074,Teacher,Primary,3,Bihar,No,Yes
+Sita,52,Female,1216422,Teacher,Postgraduate,2,Rajasthan,Yes,No
+Sita,105,Female,1157395,Driver,Graduate,0,Madhya Pradesh,No,No
+Sita,6,Male,207834,Doctor,Graduate,8,Madhya Pradesh,Yes,No
+Amit,18,Female,1154653,Doctor,Postgraduate,9,Maharashtra,Yes,Yes
+Sita,39,Female,1197543,Doctor,Graduate,7,Rajasthan,No,No
+Arjun,52,Male,415315,Unemployed,Primary,0,Delhi,No,No
+Pooja,88,Male,885546,Engineer,Postgraduate,7,Uttar Pradesh,Yes,Yes
+Pooja,85,Male,1667211,Unemployed,Graduate,4,Maharashtra,No,Yes
+Amit,59,Male,582566,Business,Graduate,6,Rajasthan,Yes,Yes
+Rahul,83,Female,332397,Teacher,Postgraduate,7,Maharashtra,No,Yes
+Neha,13,Female,722297,Doctor,Primary,10,Bihar,No,No
+Kiran,23,Female,1754868,Business,Primary,10,Delhi,Yes,No
+Vikas,70,Male,134739,Engineer,Graduate,0,Bihar,No,Yes
+Anita,74,Female,97834,Teacher,Graduate,5,Bihar,Yes,Yes
+Neha,79,Male,484934,Engineer,Postgraduate,0,Rajasthan,Yes,Yes
+Neha,59,Female,162194,Unemployed,Postgraduate,0,Bihar,Yes,No
+Pooja,96,Male,1751327,Doctor,Primary,8,Rajasthan,No,Yes
+Sita,58,Male,66119,Business,Primary,1,Delhi,No,No
+Riya,112,Male,1630176,Farmer,Postgraduate,0,Maharashtra,Yes,No
+Rahul,65,Female,841252,Teacher,Secondary,3,Rajasthan,No,Yes
+Rahul,39,Female,1645278,Engineer,Graduate,0,Bihar,No,Yes
+Vikas,24,Female,181411,Labor,Secondary,2,Madhya Pradesh,No,No
+Pooja,7,Female,507952,Doctor,Secondary,2,Madhya Pradesh,Yes,Yes
+Amit,94,Male,507175,Driver,Postgraduate,8,Uttar Pradesh,Yes,No
+Arjun,86,Male,1727490,Engineer,Primary,2,Madhya Pradesh,No,Yes
+Riya,105,Male,1406499,Unemployed,Primary,4,Bihar,No,Yes
+Anita,100,Male,46041,Business,Secondary,2,Delhi,Yes,No
+Kiran,48,Male,413237,Unemployed,Postgraduate,9,Delhi,No,Yes
+Vikas,15,Female,1230672,Business,Postgraduate,5,Bihar,Yes,No
+Vikas,88,Female,1767821,Business,Graduate,3,Rajasthan,Yes,No
+Rahul,111,Male,1079403,Teacher,Graduate,4,Delhi,Yes,Yes
+Kiran,54,Female,608544,Doctor,Primary,8,Bihar,Yes,No
+Pooja,64,Female,303574,Farmer,Postgraduate,7,Delhi,No,Yes
+Amit,17,Male,424772,Student,Secondary,7,Madhya Pradesh,No,No
+Kiran,112,Male,1751266,Driver,Postgraduate,2,Delhi,No,Yes
+Neha,39,Male,1813511,Student,Postgraduate,3,Maharashtra,No,No
+Pooja,88,Male,387798,Labor,Postgraduate,10,Delhi,No,No
+Neha,103,Female,634179,Engineer,Primary,1,Bihar,Yes,Yes
+Anita,75,Male,245503,Doctor,Graduate,4,Madhya Pradesh,No,Yes
+Arjun,-3,Male,1406931,Engineer,Primary,3,Delhi,No,Yes
+Sita,60,Female,1015542,Business,Secondary,3,Rajasthan,No,Yes
+Kiran,113,Male,1093222,Doctor,Graduate,4,Bihar,No,No
+Arjun,28,Female,1168346,Student,Postgraduate,10,Rajasthan,Yes,Yes
+Sita,73,Male,1937987,Business,Secondary,5,Rajasthan,Yes,No
+Neha,19,Female,1537826,Farmer,Postgraduate,6,Bihar,Yes,No
+Amit,1,Female,931792,Student,Secondary,7,Uttar Pradesh,No,Yes
+Rahul,48,Male,1720038,Engineer,Secondary,3,Madhya Pradesh,No,No
+Arjun,65,Male,1069187,Unemployed,Secondary,4,Uttar Pradesh,Yes,No
+Riya,87,Male,1514871,Unemployed,Postgraduate,2,Bihar,No,No
+Anita,17,Female,294564,Doctor,Secondary,10,Maharashtra,No,Yes
+Vikas,25,Male,1860741,Student,Secondary,5,Rajasthan,No,Yes
+Neha,116,Male,539467,Labor,Postgraduate,7,Madhya Pradesh,No,Yes
+Vikas,111,Female,557723,Labor,Graduate,8,Delhi,No,Yes
+Pooja,21,Male,729163,Teacher,Primary,1,Uttar Pradesh,No,No
+Vikas,65,Male,557062,Student,Postgraduate,9,Delhi,Yes,Yes
+Arjun,63,Female,1316871,Labor,Graduate,4,Bihar,No,No
+Kiran,103,Male,222595,Driver,Primary,4,Bihar,Yes,Yes
+Kiran,45,Female,708219,Student,Postgraduate,10,Bihar,No,Yes
+Amit,55,Female,786903,Engineer,Graduate,0,Uttar Pradesh,No,No
+Rahul,17,Male,280024,Engineer,Primary,1,Rajasthan,No,No
+Kiran,98,Male,669610,Engineer,Secondary,5,Madhya Pradesh,Yes,No
+Sita,37,Female,267689,Doctor,Primary,4,Madhya Pradesh,No,No
+Vikas,16,Female,1875344,Unemployed,Graduate,2,Rajasthan,Yes,No
+Rahul,69,Female,1055267,Unemployed,Secondary,9,Maharashtra,Yes,No
+Amit,93,Male,1869761,Business,Graduate,10,Maharashtra,No,No
